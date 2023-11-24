@@ -47,5 +47,11 @@ Open your web browser and visit http://localhost:3000 to explore the E-commerce 
 
 
 **Contributor:**
-Dauirzhan Agaidarov
+**Dauirzhan Agaidarov**
+----------------------------------------------------------
+
+
+
+
+
 Feel free to contribute, open issues, and provide feedback to help improve this E-commerce Furniture Website project!
